@@ -1,0 +1,14 @@
+layout_spectrum: 0.9587814
+typography_spectrum: 0.3172043
+color:
+  saturation: 0.0952759
+  lightness: 0.05343404
+  brandStrength: 0.7465927
+  brandColors:
+    - '#0D0D0C'
+    - '#B4A491'
+    - '#FFFFFC'
+    - '#6D706D'
+    - '#CFD888'
+  rhythmicContrast: 0.9623656
+name: "Marco's World"
